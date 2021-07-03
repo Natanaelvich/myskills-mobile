@@ -15,22 +15,10 @@
 ## Start & watch
 
     $ npm start
-
-## ScreenShots
-
-<p align='center'>
-<img src='' width='240' />
-
-</p>
-
-
-
+    
 ## GIFs
-
-<p align='center'>
-  <img src='' width='260' />
-</p>
-
+    
+![Peek 03-07-2021 12-41](https://user-images.githubusercontent.com/52014318/124359631-2f7e9b00-dbfc-11eb-9931-2fe78ce441ce.gif)
 
 ## Languages & tools
 
