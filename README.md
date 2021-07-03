@@ -4,7 +4,7 @@
 </p>
 
 
-### my skills app with tests E2E 🤖, made with react native
+### my skills app with tests E2E 🤖 made with react native
 
 ## Install
 
